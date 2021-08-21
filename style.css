@@ -83,7 +83,7 @@
     margin-right: 2rem;
     text-size-adjust: 10px;
   }
-  
+  /* using media queries for when we broweser will minimizing the navbar content will be center justify..*/
   @media (max-width: 28.75em) {
     .nav {
       justify-content: center;
